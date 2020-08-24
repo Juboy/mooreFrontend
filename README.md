@@ -1,4 +1,4 @@
-# vuelara
+# Moore Advise Task Management Frontend
 
 ## Project setup
 
